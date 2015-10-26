@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>XMPP</title><link>/</link><description></description><atom:link href="/feeds/adam.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 26 Jan 2015 00:00:00 +0100</lastBuildDate><item><title>Example learn post</title><link>/posts/learn/2015/Jan/26/example-learn-post</link><description>&lt;p&gt;Here's a post to the learn post series&lt;/p&gt;
+&lt;p&gt;Testing testing&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam</dc:creator><pubDate>Mon, 26 Jan 2015 00:00:00 +0100</pubDate><guid>tag:,2015-01-26:posts/learn/2015/Jan/26/example-learn-post</guid></item></channel></rss>
